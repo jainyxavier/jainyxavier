@@ -1,4 +1,4 @@
-### Olá! Eu sou Jainy Xavier, estudante front-end ✨
+### Olá! Eu sou Jainy Xavier, desenvolvedora front-end ✨
 
 <div align="center">
     <a href="https://github.com/jainyxavier">
