@@ -10,7 +10,8 @@
     <img align="center" alt="jainy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="jainy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="jainy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="right" alt="Jainy-pic" height="150" style="border-radius:50px;"        src="https://cdn.discordapp.com/attachments/841753029137137716/957801398160982066/jainy-profile.png">
+    <img align="right" alt="Jainy-pic" height="150"    
+    src="https://cdn.discordapp.com/attachments/841753029137137716/957807801399406633/jainyprofile.png">
 </div>
   
 <br>
